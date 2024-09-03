@@ -1,0 +1,32 @@
+	{
+	"shops": [
+	{
+	  "name": "Brian's Archery Supplies",
+	  "shop_keeper": "Brian",
+	  "increase_per_purchase": 2.0,
+	  "location": {
+		"locationName": "Rimmington",
+		"area": {
+		  "x1": 3100,
+		  "y1": 3300,
+		  "x2": 3200,
+		  "y2": 3400
+		}
+	  },
+	  "items": [
+		{
+		  "name": "Holy symbol",
+		  "stackable": true;
+		  "price": 360,
+		  "stock": 0,
+		},
+		{
+		  "name": "Iron Arrows",
+		  "stackable": true;
+		  "price": 5,
+		  "stock": 5,
+		}
+	  ]
+	},
+	]
+	}
